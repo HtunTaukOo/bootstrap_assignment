@@ -1,0 +1,14 @@
+col-lg-6
+ Columns will stack on both mobile AND tablet screens, only displaying side by side on laptop/desktop screens
+
+col-sm-6
+ Columns will display side by side on almost all devices except very small phones
+
+Brief Analysis
+
+col-sm-6: Most aggressive - columns stay side by side on most screens
+col-md-6: Balanced approach - stacks on mobile, side by side on tablets+
+col-lg-6: Most conservative - stacks on mobile and tablets, side by side only on larger screens
+
+ The choice depends on your content and target audience. For a product table with descriptions, col-md-6 is often the best balance between readability and space utilization.
+
